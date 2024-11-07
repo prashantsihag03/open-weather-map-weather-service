@@ -2,6 +2,10 @@
 
 Code Challenge
 
+## Design and Implementation Document
+
+[Design and Implementation Document](./Design_and_Implementation_Doc-Prashant_Sihag-Tech_Assessment.pdf)
+
 ## Requirements
 
 - Java 17
