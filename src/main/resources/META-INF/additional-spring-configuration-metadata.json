@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "rateLimiter.timeWindowInMinutes",
+      "type": "java.lang.Long",
+      "description": "Time window in minutes after which api key usage will be reset"
+    },
+    {
+      "name": "rateLimiter.allowedTotalCallsInWindow",
+      "type": "java.lang.Long",
+      "description": "Total number of call for one api key allowed within the set time window"
+    }
+  ]
+}
